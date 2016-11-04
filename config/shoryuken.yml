@@ -1,0 +1,4 @@
+:concurrency: 25
+:pidfile: tmp/pids/shoryuken.pid
+:queues:
+  - smart_tools_convert_video
